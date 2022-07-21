@@ -94,9 +94,12 @@ footer{
  .qualificationList{
      list-style: circle;
  }
-/* Added backgroundImage in css, for the mobility of the image request */
+ /* Added backgroundImage in css, for the mobility of the image request */
  #backgroundImage{
      background: url("Picture1.JPG");
      background-size: cover;
      background-clip: border-box;
+     display: flex;
+     flex-direction: row-reverse;
+     justify-content: center;
  }
