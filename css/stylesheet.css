@@ -94,3 +94,9 @@ footer{
  .qualificationList{
      list-style: circle;
  }
+
+ #backgroundImage{
+     background: url("Picture1.JPG");
+     background-size: cover;
+     background-clip: border-box;
+ }
