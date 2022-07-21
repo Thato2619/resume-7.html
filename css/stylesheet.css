@@ -94,7 +94,7 @@ footer{
  .qualificationList{
      list-style: circle;
  }
-
+/* Added backgroundImage in css, for the mobility of the image request */
  #backgroundImage{
      background: url("Picture1.JPG");
      background-size: cover;
